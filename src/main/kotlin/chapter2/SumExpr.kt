@@ -44,5 +44,4 @@ fun evalWithLogging(e: Expr): Int =
             left + right
         }
         else -> throw IllegalArgumentException(UNKNOWN_EXPRESSION)
-
     }
