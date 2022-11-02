@@ -7,7 +7,7 @@ fun main() {
     val bufferedReader = BufferedReader(StringReader("234"))
     val bufferedReader2 = BufferedReader(StringReader("Not a number"))
     readNumber(bufferedReader)
-    //Nothing will be printed
+    //Nothing will be printed, because already returned
     readNumber(bufferedReader2)
 }
 
