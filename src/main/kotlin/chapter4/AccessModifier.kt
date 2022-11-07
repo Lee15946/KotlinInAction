@@ -29,8 +29,7 @@ class Outer {
 // Sealed class's subclass can only be defined inside, default open
 sealed class Expr {
     class Num(val value: Int) : Expr()
-    class Sum(val left: Expr, val right: Expr) : Expr() {
-    }
+    class Sum(val left: Expr, val right: Expr) : Expr()
 }
 
 fun eval(e: Expr): Int =

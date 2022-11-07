@@ -28,8 +28,6 @@ U
 %src/main/kotlin/chapter2/Exception.kt,1/d/1dc3ed82abffebbf19918d5baeb7b2dcec0ddfcb
 O
 src/main/kotlin/chapter3/Set.kt,5/4/54456168e73044005d26b93936fbc683d825fe47
-V
-&src/main/kotlin/chapter3/Collection.kt,a/e/ae6a00ef2b97c04971893eef5cdfd5cdad21114b
 R
 "src/main/kotlin/chapter3/String.kt,9/e/9e79f6b4085e1fd0b72e3df07497bade306f74db
 Y
