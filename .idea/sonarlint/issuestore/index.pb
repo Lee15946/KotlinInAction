@@ -1,3 +1,36 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+G
+src/main/kotlin/Main.kt,d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5
+R
+"src/main/kotlin/chapter2/Person.kt,5/2/5234fa9c6fe202b5826e200feca5b966d1f207bb
+Z
+*src/main/kotlin/chapter1/ATasteOfKotlin.kt,1/4/1499f7675d26a57e1f9a39b9acbee7df2000d3ca
+V
+&src/main/kotlin/chapter2/HelloWorld.kt,2/c/2cc4ce026e865bfeae297b41e524808cb42e5031
+T
+$.idea/codeStyles/codeStyleConfig.xml,d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba
+Q
+!src/main/kotlin/chapter2/Color.kt,f/3/f3e97a2ce117e1af95f173dd6e5805619dddd123
+U
+%src/main/kotlin/chapter2/Rectangle.kt,b/3/b3e43411bed31c97525e7356186c5e34e6385e3c
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+U
+%src/main/kotlin/chapter2/Traversal.kt,9/7/97aad03b8ff61ef45dd1a7d51d03e3ded5a3678c
+S
+#src/main/kotlin/chapter2/SumExpr.kt,5/3/5327c3f655556bc29c224fbb4e835b73981bd009
+U
+%src/main/kotlin/chapter2/Exception.kt,1/d/1dc3ed82abffebbf19918d5baeb7b2dcec0ddfcb
+O
+src/main/kotlin/chapter3/Set.kt,5/4/54456168e73044005d26b93936fbc683d825fe47
+V
+&src/main/kotlin/chapter3/Collection.kt,a/e/ae6a00ef2b97c04971893eef5cdfd5cdad21114b
+R
+"src/main/kotlin/chapter3/String.kt,9/e/9e79f6b4085e1fd0b72e3df07497bade306f74db
+Y
+)src/main/kotlin/chapter3/LocalFunction.kt,2/7/276679dc1408f8e9d36cb0b38aee17a6c51b8329
