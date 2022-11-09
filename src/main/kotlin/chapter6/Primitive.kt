@@ -18,6 +18,8 @@ fun main() {
     // Will auto-boxing
     val answer: Any = 42
     println(answer)
+
+    fail("Error occurred")
 }
 
 fun showProgress(progress: Int) {
@@ -34,3 +36,7 @@ data class PersonWithAge(val name: String, val age: Int? = null) {
 }
 
 fun foo(l: Long) = println(l)
+
+fun fail(message:String):Nothing{
+    throw IllegalStateException(message)
+}
