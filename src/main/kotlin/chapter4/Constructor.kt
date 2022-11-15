@@ -1,7 +1,5 @@
 package chapter4
 
-import javax.naming.Context
-
 fun main() {
     val alice = User("Alice")
     println(alice.isSubscribed)
